@@ -15,6 +15,7 @@
 #### 🤔 I’m inspired by
 
  * https://github.com/JFormDesigner/FlatLaf
+ * https://github.com/gaborbata/jpass
 
 #### 📫 How to reach me
 
