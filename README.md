@@ -17,6 +17,7 @@
  * https://github.com/JFormDesigner/FlatLaf
  * https://github.com/gaborbata/jpass
  * https://github.com/HaleyWang/SpringRemote
+ * https://github.com/swaywm/sway/wiki/i3-Migration-Guide
 
 #### 📫 How to reach me
 
