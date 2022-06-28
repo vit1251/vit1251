@@ -6,9 +6,9 @@
 
 #### 👯 I’m looking to collaborate on
 
+* USM - JavaScript - https://github.com/vit1251/usm
 * Skyline Commander - Golang - https://github.com/vit1251/skyline-commander
 * Golden Point - Golang - https://github.com/vit1251/golden
-* Emigrate - Python3 - https://github.com/vit1251/emigrate
 
 #### 🤔 I’m inspired by
 
