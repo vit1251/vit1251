@@ -20,4 +20,3 @@
 #### 📫 How to reach me
 
 * Telegram - https://t.me/vit1251
-* XMPP - vit1251@jabber.ru
