@@ -10,12 +10,13 @@
 * Skyline Commander - Golang - https://github.com/vit1251/skyline-commander
 * Golden Point - Golang - https://github.com/vit1251/golden
 
-#### 🤔 I’m inspired by
+#### 🤔 I’m inspired by Java project
 
  * https://github.com/JFormDesigner/FlatLaf
- * https://github.com/gaborbata/jpass
- * https://github.com/HaleyWang/SpringRemote
- * https://github.com/swaywm/sway/wiki/i3-Migration-Guide
+
+#### 🤔 I’m inspired by JavaScript project
+ 
+ * https://jetbrains.github.io/ring-ui/
 
 #### 📫 How to reach me
 
